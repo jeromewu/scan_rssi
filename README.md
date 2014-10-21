@@ -1,1 +1,1 @@
-a simple bash script for getting rssi of each essid
+a simple bash script to scan and show rssi of each essid
